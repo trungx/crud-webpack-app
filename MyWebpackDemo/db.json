@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung galaxy s7",
+      "price": 1000,
+      "category": "Smart phone",
+      "brand": "Samsung",
+      "quantity": 100
+    },
+    {
+      "id": 2,
+      "name": "Ipad 5",
+      "price": 1500,
+      "category": "Tablet",
+      "brand": "Apple",
+      "quantity": 70
+    },
+    {
+      "id": 3,
+      "name": "Asus ROSX70",
+      "price": 5000,
+      "category": "Laptop",
+      "brand": "Asus",
+      "quantity": 50
+    },
+    {
+      "id": 4,
+      "name": "Oppo S1x",
+      "price": 1000,
+      "category": "Smart phone",
+      "brand": "Oppo",
+      "quantity": 30
+    },
+    {
+      "name": "KFC",
+      "price": "123",
+      "category": "cate",
+      "brand": "no brand",
+      "id": 5
+    },
+    {
+      "name": "cowcow",
+      "price": "1111",
+      "category": "2",
+      "brand": "dsadsad",
+      "quantity": 100,
+      "id": 6
+    },
+    {
+      "name": "dasd",
+      "price": 100,
+      "category": "2xxxz",
+      "brand": "sdasd",
+      "quantity": 100,
+      "id": 7
+    }
+  ],
+  "users": []
+}
